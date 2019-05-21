@@ -1,0 +1,16 @@
+| Nombre de Apostador Numero 1 es : kevin
+| Apellidos : garcia sequeira 
+| Cedula : 116940823 
+| Numero de Telefono: 87183975
+| Numero De Caballo Al Que Aposto: 3
+
+| Numero De Asiento: No definido |
+| La Apuesta Fue de: $700.0
+| Nombre de Apostador Numero 2 es : peti
+| Apellidos : hdih kskd 
+| Cedula : 2837738 
+| Numero de Telefono: 27382829
+| Numero De Caballo Al Que Aposto: 2
+
+| Numero De Asiento: No definido |
+| La Apuesta Fue de: $800.0
